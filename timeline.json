@@ -7,10 +7,22 @@
   },
   "events": [
     {
-      "start_date": { "year": "2026", "month": "2", "day": "3" },
+      "start_date": { "year": "1995", "month": "1", "day": "1" },
       "text": { 
-        "headline": "First Event", 
-        "text": "This is the starting point of the timeline." 
+        "headline": "Brice Taylor", 
+        "text": "Thanks for the Memories." 
+      },
+      "media": { 
+        "url": "https://example.com/image.jpg",
+        "caption": "Optional caption",
+        "credit": "Image credit"
+      }
+    }
+    {
+      "start_date": { "year": "1995", "month": "9", "day": "1" },
+      "text": { 
+        "headline": "Cathy O’Brien", 
+        "text": "Trans-Formation." 
       },
       "media": { 
         "url": "https://example.com/image.jpg",
