@@ -9,7 +9,7 @@
     {
       "start_date": { "year": "1995", "month": "1", "day": "1" },
       "text": { 
-        "headline": "Starshine: One Woman’s Valiant Escape From Mind Control by Brice Taylor", 
+        "headline": "Starshine by Brice Taylor", 
         "text": "In this memoir-style narrative, author Brice Taylor describes her personal account of experiencing and ultimately escaping what she characterizes as prolonged trauma-based mind control beginning in childhood. The work focuses on her lived experiences of coercive control, alleged abuse, and the psychological journey toward healing and autonomy." 
       },
       "media": { 
@@ -21,11 +21,23 @@
     {
       "start_date": { "year": "1995", "month": "9", "day": "1" },
       "text": { 
-        "headline": "Cathy O’Brien", 
-        "text": "Trans-Formation." 
+        "headline": "Trance Formation of America by Cathy O’Brien & Mark Phillips", 
+        "text": "This book presents Cathy O’Brien’s chronological account of her life, in which she reports being subjected to covert psychological manipulation and trauma from childhood onward. Co-authored with Mark Phillips, the narrative describes her experiences within alleged secret programs and her subsequent efforts to understand and document what she views as systems of power and control." 
       },
       "media": { 
         "url": "https://example.com/image.jpg",
+        "caption": "Optional caption",
+        "credit": "Image credit"
+      }
+    },
+    {
+      "start_date": { "year": "1996", "month": "1", "day": "1" },
+      "text": { 
+        "headline": "Betrayal Trauma by Jennifer J. Freyd", 
+        "text": "Psychologist Jennifer J. Freyd’s work introduces the concept of betrayal trauma and articulates a theoretical framework for understanding why individuals may forget or dissociate memories of abuse by trusted caregivers. It integrates psychological research and case examples to explain memory processes in the context of attachment and trauma." 
+      },
+      "media": { 
+        "url": "images/Starshine_Book_Cover.jpg",
         "caption": "Optional caption",
         "credit": "Image credit"
       }
