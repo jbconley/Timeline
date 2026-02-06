@@ -14,6 +14,7 @@
       },
       "media": { 
         "url": "images/Starshine_Book_Cover.jpg",
+        "color": "#112233"
         "caption": "Taylor, Brice. Starshine: One Woman’s Valiant Escape from Mind Control. Brice Taylor Trust, 1995."
       }
     },
@@ -24,7 +25,7 @@
         "text": "This book presents Cathy O’Brien’s chronological account of her life, in which she reports being subjected to covert psychological manipulation and trauma from childhood onward. Co-authored with Mark Phillips, the narrative describes her experiences within alleged secret programs and her subsequent efforts to understand and document what she views as systems of power and control." 
       },
       "media": { 
-        "url": "https://example.com/image.jpg",
+        "url": "images/Trance-formation_Book_Cover.jpg",
         "caption": "O’Brien, Cathy, and Mark Phillips. Trance Formation of America: The True Life Story of a CIA Mind Control Slave. Reality Marketing, Inc., 1995."
       }
     },
@@ -64,7 +65,7 @@
     {
       "start_date": { "year": "2013", "month": "2", "day": "14" },
       "text": { 
-        "headline": "Betrayal Trauma", 
+        "headline": "Blind to Betrayal", 
         "text": "Jennifer Freyd and Pamela Birrell explore the psychological and social phenomenon they term betrayal blindness, describing how individuals and groups may overlook or deny occurrences of betrayal by trusted others or institutions. Drawing on research and illustrative examples, the book examines patterns of unawareness and the implications for relationships and organizations." 
       },
       "media": { 
