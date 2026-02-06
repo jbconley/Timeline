@@ -17,6 +17,61 @@
         "color": "#112233",
         "caption": "Taylor, Brice. Starshine: One Woman’s Valiant Escape from Mind Control. Brice Taylor Trust, 1995."
       }
+    },
+    {
+      "start_date": { "year": "1995", "month": "9", "day": "1" },
+      "text": { 
+        "headline": "Trance Formation of America", 
+        "text": "This book presents Cathy O’Brien’s chronological account of her life, in which she reports being subjected to covert psychological manipulation and trauma from childhood onward. Co-authored with Mark Phillips, the narrative describes her experiences within alleged secret programs and her subsequent efforts to understand and document what she views as systems of power and control." 
+      },
+      "media": { 
+        "url": "images/Trance-formation_Book_Cover.jpg",
+        "caption": "O’Brien, Cathy, and Mark Phillips. Trance Formation of America: The True Life Story of a CIA Mind Control Slave. Reality Marketing, Inc., 1995."
+      }
+    },
+    {
+      "start_date": { "year": "1996", "month": "1", "day": "1" },
+      "text": { 
+        "headline": "Betrayal Trauma", 
+        "text": "Psychologist Jennifer J. Freyd’s work introduces the concept of betrayal trauma and articulates a theoretical framework for understanding why individuals may forget or dissociate memories of abuse by trusted caregivers. It integrates psychological research and case examples to explain memory processes in the context of attachment and trauma." 
+      },
+      "media": { 
+        "url": "images/Starshine_Book_Cover.jpg",
+        "caption": "Freyd, Jennifer J. Betrayal Trauma: The Logic of Forgetting Childhood Abuse. Harvard University Press, 1996."
+      }
+    },
+    {
+      "start_date": { "year": "1999", "month": "3", "day": "15" },
+      "text": { 
+        "headline": "Thanks for the Memories", 
+        "text": "In this extended memoir, Brice Taylor recounts her personal experiences of alleged conditioning and exploitation involving interactions with prominent figures. The narrative covers her childhood and adult years, offering detailed descriptions of her perceptions of programming and its purported connections to influential individuals." 
+      },
+      "media": { 
+        "url": "images/Starshine_Book_Cover.jpg",
+        "caption": "Taylor, Brice. Thanks for the Memories: The Truth Has Set Me Free! The Memoirs of Bob Hope’s and Henry Kissinger’s Mind-Controlled Slave. Brice Taylor Trust, 1999."
+      }
+    },
+    {
+      "start_date": { "year": "2004", "month": "8", "day": "8" },
+      "text": { 
+        "headline": "Access Denied: For Reasons of National Security", 
+        "text": "A follow-up to Trance Formation of America, this work continues Cathy O’Brien’s personal narrative. It focuses on her reflections after initially telling her story publicly, addressing challenges she describes in gaining recognition and examining the factors she associates with suppression or denial of her experiences." 
+      },
+      "media": { 
+        "url": "https://example.com/image.jpg",
+        "caption": "O’Brien, Cathy, and Mark Phillips. Access Denied: For Reasons of National Security. Reality Marketing, Inc., 2004."
+      }
+    },
+    {
+      "start_date": { "year": "2013", "month": "2", "day": "14" },
+      "text": { 
+        "headline": "Blind to Betrayal", 
+        "text": "Jennifer Freyd and Pamela Birrell explore the psychological and social phenomenon they term betrayal blindness, describing how individuals and groups may overlook or deny occurrences of betrayal by trusted others or institutions. Drawing on research and illustrative examples, the book examines patterns of unawareness and the implications for relationships and organizations." 
+      },
+      "media": { 
+        "url": "images/Starshine_Book_Cover.jpg",
+        "caption": "Freyd, Jennifer J., and Pamela J. Birrell. Blind to Betrayal: Why We Fool Ourselves We Aren’t Being Fooled. John Wiley & Sons, 2013."
+      }
     }
   ]
 }
